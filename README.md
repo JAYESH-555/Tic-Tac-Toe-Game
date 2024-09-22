@@ -4,7 +4,7 @@
 This is a simple and interactive Tic-Tac-Toe game built with React.js. The game allows two players to take turns, playing as "X" and "O". The game dynamically updates the board, detects winners or draws, and provides real-time feedback with toast notifications. The game features a reset option and more!
 
 # 🌐 Live Demo
-You can play the live version of the game here: https://tic-tac-toe-game-three-gilt.vercel.app/
+You can play the live version of the game here: [Click to Play](https://tic-tac-toe-game-jayesh-555s-projects.vercel.app/)
 
 🎉 Enjoy playing! 🕹️
 
@@ -37,19 +37,24 @@ Setup
 
 1. Clone the repository:
 
-    `git clone https://github.com/your-username/tic-tac-toe-react.git`
+    ```bash
+    git clone https://github.com/your-username/tic-tac-toe-react.git
 
 2. Navigate to the project directory:
 
-    `cd tic-tac-toe-react`
+    ```bash
+    cd tic-tac-toe-react
 
 3. Install dependencies:
 
-    `npm install`
+    ```bash
+    npm install
+
 
 4. Run the development server:
 
-    `npm run dev`
+    ```bash
+    npm run dev
 
 
 # 🎮 How to Play
