@@ -1,0 +1,13 @@
+:root{
+  --yellow : #ffc107;
+  --green : #28a745;
+}
+
+body{
+  background-color: black;
+}
+
+.main{
+  color: antiquewhite;
+  padding-left: 685px;
+}
